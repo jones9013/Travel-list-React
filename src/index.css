@@ -136,16 +136,12 @@ input[type="checkbox"] {
   text-align: center;
   font-weight: 700;
   padding: 3.2rem 0;
-<<<<<<< HEAD
 }
 
-/* Media queries for responsiveness */
 @media screen and (max-width: 768px) {
   .app {
     grid-template-rows: auto auto auto auto;
   }
-
-  /* Inline #1 | http://localhost:3000/ */
 
   h1 {
     /* font-size: 8rem; */
@@ -167,6 +163,4 @@ input[type="checkbox"] {
   .list ul {
     grid-template-columns: repeat(1, 1fr);
   }
-=======
->>>>>>> aa1bb1a619077e335ba9fdd135f67e454e69f71d
 }
